@@ -1,16 +1,4 @@
-/*Create an array of your team members. It should be an array of objects having their names,
-image (should be a link to the person's image in your image folder) you can get it from slack or anywhere track,
-best food, complexion, things learnt (an array of HTML, CSS …), best movie, age. Ensure you indent properly 
-and use the proper folder structure:thinking_face:
-Using the for each or for loop, display the names of everyone.
-You can use Bootstrap or plain HTML and CSS but it should be responsive and beautiful,
-showing their images and their details. Add a button on the card that when clicked can alert the name of each
-person clicked. You can beautify it how best you can */
 
-/*Create an array of your team members. It should be an array of objects having their names,
-image (should be a link to the person's image in your image folder) you can get it from slack or anywhere track,
-best food, complexion, things learnt (an array of HTML, CSS …), best movie, age. Ensure you indent properly 
-and use the proper folder structure*/
 
 const  teamArtemis = [
     {
